@@ -1,16 +1,113 @@
-## Hi there 👋
+Hi 👋 I'm Shravani Dhaybar
 
-<!--
-**shravanidhaybar01/Shravanidhaybar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Student | ☁️ Aspiring Cloud Security Engineer | 🛡️ Building Real-World Security Projects
 
-Here are some ideas to get you started:
+Passionate about cybersecurity, cloud security, and building practical solutions through hands-on projects and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 About Me
+
+- 🎓 First-Year BSc Cybersecurity & Digital Science Student
+- ☁️ Aspiring Cloud Security Engineer
+- 🛡️ Interested in Cloud Security, Ethical Hacking & Security Automation
+- 🐍 Exploring Python for Cybersecurity and Automation
+- 🌐 Passionate about Web Technologies and Secure Development
+- 🏆 TryHackMe Top 35%
+- 💼 Currently a Cybersecurity Intern at UptoSkills (May 2026 – July 2026)
+- 🚀 Open to Cybersecurity & Cloud Security Internship Opportunities
+
+---
+
+💼 Experience
+
+Cybersecurity Intern | UptoSkills
+
+📅 20 May 2026 – 20 July 2026
+
+- Working on hands-on cybersecurity projects and practical security concepts.
+- Building Python-based security tools and automation projects.
+- Gaining experience in networking, web security, and vulnerability assessment.
+- Strengthening problem-solving and practical cybersecurity skills through real-world tasks.
+
+---
+
+🛠️ Skills & Technologies
+
+💻 Programming
+
+- Python
+- Data Structures using Python
+- Basic Bash Scripting
+
+🖥️ Operating Systems
+
+- Linux
+- Windows
+
+🌐 Networking
+
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- OSI Model
+
+🔒 Cybersecurity Tools
+
+- Nmap
+- Wireshark
+- Burp Suite
+- OWASP ZAP
+- Git & GitHub
+
+🎯 Areas of Interest
+
+- ☁️ Cloud Security
+- 🔒 Cybersecurity
+- 🌐 Web Technologies
+- 🛡️ Ethical Hacking
+- 🤖 Artificial Intelligence
+- ⚙️ Security Automation
+
+---
+
+📂 Featured Projects
+
+- 🔐 AI-Powered Phishing Email Detector
+- 🌐 Python Port Scanner
+- 🛡️ Intrusion Detection System
+- 📊 Threat Intelligence Platform
+- 🔍 Log Analyzer
+- 📁 File Integrity Monitor
+
+---
+
+📜 Certifications & Virtual Experience
+
+- 🏅 Simplilearn – Introduction to Cybersecurity
+- 🏅 Simplilearn – Basics of Ethical Hacking
+- 🏅 Introduction to Cybercrime
+- 🏅 TCS iON Career Edge – Young Professional
+- 🏅 Tata Group Cybersecurity Analyst Virtual Experience Program (Forage)
+- 🏅 Deloitte Cybersecurity Virtual Experience Program (Forage)
+- 🏅 IBM AI Fundamentals
+- 🏅 Adobe – Design Fundamentals with AI
+
+---
+
+🎯 Goals for 2026
+
+- Build 10+ real-world cybersecurity projects
+- Strengthen Python and security automation skills
+- Learn cloud technologies and cloud security
+- Contribute to open source
+- Secure impactful cybersecurity internships
+
+---
+
+📫 Connect With Me
+
+💼 LinkedIn: www.linkedin.com/in/shravani-dhaybar-282b41387
+📧 Email: dhaybarshravani004@gmail.com
+
+⭐ "Turning curiosity into skills and skills into secure solutions."
