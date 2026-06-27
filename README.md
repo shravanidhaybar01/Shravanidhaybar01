@@ -14,7 +14,7 @@ Passionate about cybersecurity, cloud security, and building practical solutions
 - 🐍 Exploring Python for Cybersecurity and Automation
 - 🌐 Passionate about Web Technologies and Secure Development
 - 🏆 TryHackMe Top 35%
-- 💼 Currently a Cybersecurity Intern at UptoSkills (May 2026 – July 2026)
+- 💼 Currently a Cybersecurity Intern at UptoSkills (20 april 2026 – 20 July 2026)
 - 🚀 Open to Cybersecurity & Cloud Security Internship Opportunities
 
 ---
