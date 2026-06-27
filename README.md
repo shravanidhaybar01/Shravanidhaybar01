@@ -16,21 +16,7 @@ https://github.com/shravanidhaybar01/certificates-and-Badges-
 - 🐍 Exploring Python for Cybersecurity and Automation
 - 🌐 Passionate about Web Technologies and Secure Development
 - 🏆 TryHackMe Top 35%
-- 💼 Cybersecurity Intern at UptoSkills ( april 2026 – July 2026)
 - 🚀 Open to Cybersecurity & Cloud Security Internship Opportunities
-
----
-
-💼 Experience
-
-Cybersecurity Intern | UptoSkills
-
-📅 20 May 2026 – 20 July 2026
-
-- Working on hands-on cybersecurity projects and practical security concepts.
-- Building Python-based security tools and automation projects.
-- Gaining experience in networking, web security, and vulnerability assessment.
-- Strengthening problem-solving and practical cybersecurity skills through real-world tasks.
 
 ---
 
@@ -99,11 +85,9 @@ Cybersecurity Intern | UptoSkills
 
 🎯 Goals for 2026
 
-- Build 10+ real-world cybersecurity projects
+- Build real-world cybersecurity projects
 - Strengthen Python and security automation skills
-- Learn cloud technologies and cloud security
-- Contribute to open source
-- Secure impactful cybersecurity internships
+- Learn cyber technologies and cyber security
 
 ---
 
