@@ -8,7 +8,7 @@ Passionate about cybersecurity, cloud security, and building practical solutions
 
 🚀 About Me
 
-- 🎓 First-Year BSc Cybersecurity & Digital Science Student
+- 🎓 Second-Year BSc Cybersecurity & Digital Science Student
 - ☁️ Aspiring Cloud Security Engineer
 - 🛡️ Interested in Cloud Security, Ethical Hacking & Security Automation
 - 🐍 Exploring Python for Cybersecurity and Automation
