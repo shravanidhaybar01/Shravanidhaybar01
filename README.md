@@ -2,15 +2,15 @@ Hi 👋 I'm Shravani Dhaybar
 
 🔐 Cybersecurity Student | ☁️ Aspiring Cloud Security Engineer | 🛡️ Building Real-World Security Projects
 
-Passionate about cybersecurity, cloud security, and building practical solutions through hands-on projects and continuous learning.
+Passionate about cybersecurity, cloud security and application security and building practical solutions through hands-on projects and continuous learning.
 
 ---
-certificates and badges : 
+#certificates and badges : 
 https://github.com/shravanidhaybar01/certificates-and-Badges-
 
 🚀 About Me
 
-- 🎓 Second-Year BSc Cybersecurity & Digital Science Student
+- 🎓 Second-Year BSc Cyber & Digital Science Student
 - ☁️ Aspiring Cloud Security Engineer
 - 🛡️ Interested in Cloud Security, Ethical Hacking & Security Automation
 - 🐍 Exploring Python for Cybersecurity and Automation
@@ -19,14 +19,22 @@ https://github.com/shravanidhaybar01/certificates-and-Badges-
 - 🚀 Open to Cybersecurity & Cloud Security Internship Opportunities
 
 ---
+## 💼 Internship Experience
 
+### 🛡️ Cybersecurity Intern | Uptoskills
+- ⏳ Duration: 3 Months
+- 🔐 Domain: Cybersecurity
+- 🛠️ Hands-on with Burp Suite, Nmap, SQLMap, Gobuster, Nikto, Nuclei, Jaeles, Shodan, OWASP ZAP & Kali Linux.
+- 📂 View Internship Repository: https://github.com/shravanidhaybar01/Uptoskills-cybersecurity-internship
 🛠️ Skills & Technologies
 
+---
 💻 Programming
 
 - Python
 - Data Structures using Python
-- Basic Bash Scripting
+- c programming
+- c++ programming and data structure and algorithm (currently learning) 
 
 🖥️ Operating Systems
 
@@ -44,13 +52,20 @@ https://github.com/shravanidhaybar01/certificates-and-Badges-
 
 - Nmap
 - Wireshark
+- nikto
+- nuclei
+- advanced excel (data analytics )
+- Mysql workbench (data analytics)
+- SQLmap
+- gobuster
+- metasploite framework
 - Burp Suite
 - OWASP ZAP
 - Git & GitHub
 
 🎯 Areas of Interest
 
-- ☁️ Cloud Security
+- ☁️ Cloud Security and application security
 - 🔒 Cybersecurity
 - 🌐 Web Technologies
 - 🛡️ Ethical Hacking
@@ -81,9 +96,7 @@ https://github.com/shravanidhaybar01/certificates-and-Badges-
 - 🏅 IBM AI Fundamentals
 - 🏅 Adobe – Design Fundamentals with AI
 
----
-
-🎯 Goals for 2026
+-🎯 Goals for 2026
 
 - Build real-world cybersecurity projects
 - Strengthen Python and security automation skills
