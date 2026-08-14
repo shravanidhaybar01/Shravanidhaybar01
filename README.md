@@ -1,4 +1,5 @@
-Hi 👋 I'm Shravani Dhaybar
+
+ Hi 👋 I'm Shravani Dhaybar
 
 🔐 Cybersecurity Student | ☁️ Aspiring Cloud Security Engineer | 🛡️ Building Real-World Security Projects
 
@@ -62,7 +63,7 @@ https://github.com/shravanidhaybar01/certificates-and-Badges-
 - Burp Suite
 - OWASP ZAP
 - Git & GitHub
-
+- PowerBI(data analytics)
 🎯 Areas of Interest
 
 - ☁️ Cloud Security and application security
