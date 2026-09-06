@@ -28,6 +28,15 @@ https://github.com/shravanidhaybar01/certificates-and-Badges-
 - 🛠️ Hands-on with Burp Suite, Nmap, SQLMap, Gobuster, Nikto, Nuclei, Jaeles, Shodan, OWASP ZAP & Kali Linux.
 - 📂 View Internship Repository: https://github.com/shravanidhaybar01/Uptoskills-cybersecurity-internship
 🛠️ Skills & Technologies
+repo: https://github.com/shravanidhaybar01/Uptoskills-cybersecurity-internship
+
+### Data Analytics Intern — Imarticus Learning, Pune
+Internship | 2026
+
+- Worked on practical projects using Python, SQL, Excel, and Power BI.
+- Performed data cleaning, analysis, visualization, and dashboard creation.
+- Developed project-based solutions to gain hands-on experience in data analytics.
+repo: https://github.com/shravanidhaybar01/data-analytics-internship
 
 ---
 💻 Programming
@@ -64,6 +73,7 @@ https://github.com/shravanidhaybar01/certificates-and-Badges-
 - OWASP ZAP
 - Git & GitHub
 - PowerBI(data analytics)
+  
 🎯 Areas of Interest
 
 - ☁️ Cloud Security and application security
@@ -76,7 +86,7 @@ https://github.com/shravanidhaybar01/certificates-and-Badges-
 ---
 
 📂 Featured Projects
-
+- 🛡️web-application-firewall home lab setup using safe-line 
 - 🔐 AI-Powered Phishing Email Detector
 - 🌐 Python Port Scanner
 - 🛡️ Intrusion Detection System
