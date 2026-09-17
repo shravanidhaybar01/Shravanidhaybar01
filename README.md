@@ -64,15 +64,18 @@ repo: https://github.com/shravanidhaybar01/data-analytics-internship
 - Wireshark
 - nikto
 - nuclei
-- advanced excel (data analytics )
-- Mysql workbench (data analytics)
 - SQLmap
 - gobuster
 - metasploite framework
 - Burp Suite
 - OWASP ZAP
 - Git & GitHub
+
+ 📈📝📊 Data Analytics Tools
+  
 - PowerBI(data analytics)
+- advanced excel (data analytics )
+- Mysql workbench (data analytics)
   
 🎯 Areas of Interest
 
